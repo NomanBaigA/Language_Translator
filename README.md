@@ -14,7 +14,7 @@ Add mlkit library
 dependencies {
   // ...
 
-  implementation 'com.google.mlkit:translate:16.1.1'
+  implementation 'com.google.mlkit:translate:16.1.2'
 }
 ```
 
